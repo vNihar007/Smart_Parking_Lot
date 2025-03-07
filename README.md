@@ -2,7 +2,6 @@
 
 A comprehensive backend solution for managing smart parking facilities built with Node.js and Express.
 
-![Parking Management System](https://via.placeholder.com/800x400?text=Smart+Parking+System)
 
 ## Overview
 
@@ -190,23 +189,3 @@ The system includes robust error handling for common scenarios:
 - Vehicle not found during exit
 - Invalid input data
 
-## Future Enhancements
-
-- Payment gateway integration
-- Reservation system
-- Mobile application for users
-- License plate recognition integration
-- Reporting and analytics dashboard
-- Notification system for vehicle owners
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add some amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
