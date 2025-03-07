@@ -1,7 +1,7 @@
 const Vehicle = require('../models/Vehicle');
 const ParkingSpot = require('../models/parkingspot');
 const Transaction = require('../models/Transaction');
-const { allocateSpot } = require('../utils/spotAllocation');
+const { allocateSpot } = require('../Services_Logic/spotAllocation');
 
 async function createVehicle(type, licensePlate) {
     const vehicle = new Vehicle({ type, licensePlate });
